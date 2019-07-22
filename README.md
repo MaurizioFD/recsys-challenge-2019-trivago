@@ -16,7 +16,7 @@ It’s in the interest of the traveler, advertising booking site, and trivago to
 
 **Goal of the challenge is to develop a session-based and context-aware recommender system to adapt a list of accommodations according to the needs of the user. In the challenge, participants will have to predict which accommodations have been clicked in the search result during the last part of a user session.** Afterwards predictions are evaluated offline and scores will be displayed in a leaderboard.
 
-Visit [the challenge website](https://recsys.trivago.cloud/challenge/) for more information about the challenge.
+Visit [the challenge website](https://recsys.trivago.cloud/challenge/) for more information about the challenge. You can read the article in which we describe our work [here](Article_PoliCloud8_With_appendix.pdf).
 
 ## Team members
 We partecipated in the challenge as PoliCloud8, a team of 8 MSc students from Politecnico di Milano:
